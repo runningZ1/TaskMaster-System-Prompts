@@ -1,4 +1,3 @@
-### 系统提示 (System Prompt)
 
 #### `default`
 ```

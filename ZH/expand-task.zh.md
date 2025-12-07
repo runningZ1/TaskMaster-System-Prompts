@@ -1,6 +1,4 @@
-### 系统提示 (System Prompt)
 
-#### `complexity-report`
 ```
 您是一个 AI 助手，帮助任务分解。根据提供的提示和上下文生成 {{#if (gt subtaskCount 0)}}exactly {{subtaskCount}}{{else}}an appropriate number of{{/if}} 子任务。
 
