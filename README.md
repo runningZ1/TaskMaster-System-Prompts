@@ -17,28 +17,27 @@ TaskMaster 是一个AI驱动的任务管理系统,本仓库包含其核心的系
 
 ```
 TaskMaster-System-Prompts/
-├── original-version/          # 原始版本提示词
-│   ├── EN/                   # 英文版本
-│   │   ├── README.en.md      # 英文文档
-│   │   ├── add-task.en.md
-│   │   ├── analyze-complexity.en.md
-│   │   ├── expand-task.en.md
-│   │   ├── parse-prd.en.md
-│   │   ├── research.en.md
-│   │   ├── update-subtask.en.md
-│   │   ├── update-task.en.md
-│   │   └── update-tasks.en.md
-│   └── ZH/                   # 中文版本
-│       ├── README.zh.md      # 中文文档
-│       ├── add-task.zh.md
-│       ├── analyze-complexity.zh.md
-│       ├── expand-task.zh.md
-│       ├── parse-prd.zh.md
-│       ├── research.zh.md
-│       ├── update-subtask.zh.md
-│       ├── update-task.zh.md
-│       └── update-tasks.zh.md
-└── modified-version/         # 修改版本(待添加)
+├── EN/                                      # 英文版本提示词
+│   ├── README.en.md                         # 英文文档
+│   ├── add-task.en.md
+│   ├── analyze-complexity.en.md
+│   ├── expand-task.en.md
+│   ├── parse-prd.en.md
+│   ├── research.en.md
+│   ├── update-subtask.en.md
+│   ├── update-task.en.md
+│   └── update-tasks.en.md
+├── ZH/                                      # 中文版本提示词
+│   ├── README.zh.md                         # 中文文档
+│   ├── add-task.zh.md
+│   ├── analyze-complexity.zh.md
+│   ├── expand-task.zh.md
+│   ├── parse-prd.zh.md
+│   ├── research.zh.md
+│   ├── update-subtask.zh.md
+│   ├── update-task.zh.md
+│   └── update-tasks.zh.md
+└── Task-Manager-Unified-System-Prompt.zh.md # 统一系统提示词(中文)
 ```
 
 ## 🚀 核心功能
@@ -66,14 +65,15 @@ TaskMaster-System-Prompts/
 
 ## 📚 文档
 
-- [中文完整文档](./original-version/ZH/README.zh.md)
-- [English Documentation](./original-version/EN/README.en.md)
+- [中文完整文档](./ZH/README.zh.md)
+- [English Documentation](./EN/README.en.md)
+- [统一系统提示词(中文)](./Task-Manager-Unified-System-Prompt.zh.md)
 
 ## 🔧 使用方法
 
 详细的使用方法、参数说明和最佳实践请参阅:
-- 中文用户: [README.zh.md](./original-version/ZH/README.zh.md)
-- English users: [README.en.md](./original-version/EN/README.en.md)
+- 中文用户: [README.zh.md](./ZH/README.zh.md)
+- English users: [README.en.md](./EN/README.en.md)
 
 ## 📝 模板结构
 
